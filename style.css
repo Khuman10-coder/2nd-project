@@ -3,7 +3,7 @@ nav{
     background-color:darkslategrey;
     text-decoration: none;
     font-size: larger;
-    width: 300px;
+    width: 900px;
     height:40px ;
    
     padding:2px 2px ;
@@ -20,7 +20,8 @@ a{
    
 }
 a:hover{
-    color:grey;
+    background-color:lightblue;
+    color:blue;
     
     
 }
@@ -36,4 +37,5 @@ a:hover{
 }
 .a:hover{
  transform: scale(1.02);
+ background: #000;
 }
