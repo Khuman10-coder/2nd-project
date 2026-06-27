@@ -93,17 +93,35 @@ nav{
     display:block;
 }
 .unique{
- 
+ font-size: larger;
   border:2px solid black ;
   width:500px ;
   height: 400px;
-  margin:2px 200px ;
+  margin:2px 4px 2px 400px ;
 }
 #xx{
-    text-align: center;
+    width: fit-content;
+   
     font-size: x-large;
     padding: 2px 2px;
     margin:2px 3px ;
+    font-size: xx-large;
+    
+    margin: 2px 126px;
 }
+.vv{
+    margin:13px 6px ;
+}
+
+.dq{
+background-color:crimson ;
+height:30px ;
+width:90px ;
+margin:2px 6px ;
+}
+.dq:hover{
+    background-color: orangered;
+}
+.
 
 
