@@ -38,26 +38,26 @@ nav{
   transition: transform 0.3s ease;
   width: 1300px ;
   margin:2px 20px ;
-  background-color:#000033 ;
-  color:#D4AF37;
+  background-color:orangered;
+  color:lightyellow;
 }
 .a:hover{
  
- background: #000;
+ background:orangered;
 }
 #google_translate_element{
     margin-left: auto;
 }
 .kh{
- margin: 3px 56px;
- width:450px ;
- border:2px  solid black;
-  border-width:medium;
   display: inline-block;
+  margin: 5px 21px;
+  width:355px ;
+ height:300px ;
+ border:2px  solid black;
 }
-.kh:hover{
+
     
-}
+
 .link{
     width:80px ;
     height:30px;
@@ -72,6 +72,18 @@ nav{
 }
 .cf{
     font-family: 'Times New Roman', Times, serif;
+}
+.projects{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+
+}
+.dx{
+    width:60px ;
+    height: 50px;
+    margin:2px 50px ;
 }
 
 
