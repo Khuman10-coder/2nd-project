@@ -82,9 +82,28 @@ nav{
 }
 .dx{
     width:60px ;
-    height: 50px;
-    margin:2px 50px ;
+    height: 60px;
+    margin:25px 5px 1px 130px ;
+    border:2px solid black ;
 }
-
+.z{
+    display: flex;
+}
+.ll{
+    display:block;
+}
+.unique{
+ 
+  border:2px solid black ;
+  width:500px ;
+  height: 400px;
+  margin:2px 200px ;
+}
+#xx{
+    text-align: center;
+    font-size: x-large;
+    padding: 2px 2px;
+    margin:2px 3px ;
+}
 
 
