@@ -26,20 +26,24 @@
             margin: 0;
         }
         .fg{
-          margin:10px 15px ;
+          margin:10px 520px ;
+          background-color: yellow;
+          width:130px ;
+          padding:2px 2px ;
 
         }
         li{
-            font-size: larger;
+            font-size: x-large;
         }
+
         
     </style>
 </head>
-<body>
-<nav>
- <a href="#home">Home</a>
- <a href="">Projects</a>
- <a href="">Contacts</a>
+<body  >
+<nav  >
+ <a class="q" href="#home">Home</a>
+ <a class="q" href="">My Projects</a>
+ <a class="q" href="">Contacts</a>
  <div id="google_translate_element" ></div>
  
 
@@ -51,7 +55,7 @@
     <hr>
     <script>
  function googleTranslateElementInit(){
-    newgoogle.translate.TranslateElement(
+    new google.translate.TranslateElement(
         {
             pageLanguage: 'en'
         },
@@ -77,6 +81,7 @@
       </div>
        <script>
         let message="Hi,I'm Khuman Adhikari."
+     
         let i=0;
 
         function typEffect(){
@@ -85,19 +90,18 @@
                 i++;
                 setTimeout(typEffect,100);
             }
+             
         }
     window.onload = typEffect;
        </script>
+       <br>
      <h2 class="fg" >My Projects</h2>
-     <ul>
-        
-        <li>The Roman Empire</li>
-    
-      <a href="https://stately-squirrel-469f7c.netlify.app/">
-       <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCmo_Oy4yI0StcpLgNQge1_X618B6M21sa0U5lJ32Jw&s=10">
-      </a>
-      </ul>
-
+     
+        <div>
+        <li class="df" >The Roman Empire</li>
+        <br>
+        <p>A simple website describing about the roman empire</p>
+</div>
   
 </body>
 </html>
