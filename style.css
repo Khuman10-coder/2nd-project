@@ -48,6 +48,31 @@ nav{
 #google_translate_element{
     margin-left: auto;
 }
+.kh{
+ margin: 3px 56px;
+ width:450px ;
+ border:2px  solid black;
+  border-width:medium;
+  display: inline-block;
+}
+.kh:hover{
+    
+}
+.link{
+    width:80px ;
+    height:30px;
+    margin:2px 10px;
+    background-color:crimson;
+}
+.link:hover{
+    background-color: red;
+}
+.df{
+    margin:2px 90px ;
+}
+.cf{
+    font-family: 'Times New Roman', Times, serif;
+}
 
 
 
