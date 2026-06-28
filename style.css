@@ -72,6 +72,7 @@ nav{
 }
 .cf{
     font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
 }
 .projects{
     display: flex;
@@ -85,6 +86,14 @@ nav{
     height: 65px;
     margin:1px 5px 1px 120px ;
     border:2px solid black ;
+}
+.ded{
+    margin:4px 69px ;
+    border:1.9px dotted black ;
+    display: block;
+}
+.ded:hover{
+    border:1.4px  solid;
 }
 
 .ll{
@@ -136,7 +145,7 @@ margin:2px 6px ;
 .con{
     display:flex;
 }
-lef{
+.lef{
     display: block;
 
 }
@@ -147,6 +156,18 @@ lef{
 .iu,.ui{
     display: flex;
     flex-direction: column;
+}
+.aqa{
+    display: flex;
+}
+.dsd{
+    background-color: greenyellow;
+    height: 35px;
+    width: 289px;
+    margin:2px 140px ;
+}
+.ppp{
+    display
 }
 
 
