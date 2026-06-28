@@ -82,17 +82,15 @@ nav{
 }
 .dx{
     width:60px ;
-    height: 60px;
-    margin:25px 5px 1px 130px ;
+    height: 65px;
+    margin:1px 5px 1px 120px ;
     border:2px solid black ;
 }
-.z{
-    display: flex;
-}
+
 .ll{
     display:block;
 }
-.unique{
+.ic{
  font-size: larger;
   border:2px solid black ;
   width:500px ;
@@ -114,7 +112,7 @@ nav{
 }
 
 .dq{
-background-color:crimson ;
+background-color:green ;
 height:30px ;
 width:90px ;
 margin:2px 6px ;
@@ -122,6 +120,33 @@ margin:2px 6px ;
 .dq:hover{
     background-color: orangered;
 }
-.
+#aqa{
+    font-size:x-small;
+    text-align: center;
+}
+.asa{
+    display:flex;
+}
+.z{
+    display:block ;
+}
+.li{
+    display: block;
+}
+.con{
+    display:flex;
+}
+lef{
+    display: block;
+
+}
+.ia,.ib{
+    display: flex;
+    align-items: center;
+}
+.iu,.ui{
+    display: flex;
+    flex-direction: column;
+}
 
 
