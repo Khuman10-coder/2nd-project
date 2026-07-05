@@ -14,15 +14,37 @@ nav{
     gap: 20px;
     
 }
+
+.cer{
+    display: flex;
+    align-items: flex-start;
+    gap:40px ;
+}
+.ngn{
+    
+    width:25% ;
+    height:max-content;
+    background-color:darkslategrey ;
+}
+.tnd{
+    padding:2px 2px ;
+    margin-left:320px ;
+    margin-top:60px  ;
+    width:65% ;
+}
+.fdfg{
+    margin:2px 00px 0px 500px ;
+}
 .q{
     color: white;
     text-decoration: none;
     padding:7px 7px ;
-    margin: 7px 7px;
+    margin: 7px 15px;
     font-size: larger;
 
    
 }
+
 .q:hover{
     
     color:black;
@@ -93,7 +115,7 @@ nav{
     display: block;
 }
 .ded:hover{
-    border:1.4px  solid;
+    border:1.8px  solid black;
 }
 
 .ll{
@@ -201,4 +223,16 @@ margin:2px 6px ;
     width: fit-content;
     margin:2px 39px ;
 }
+.wfd{
+    display: flex;
+
+}
+.wfds{
+    display: block;
+}
+.dids:hover{
+    border:1.8ps solid black ;
+}
+
+
 
