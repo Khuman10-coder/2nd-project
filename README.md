@@ -1,37 +1,43 @@
-hey, i'm khuman
+# 👋 Hey, I'm Khuman
 
-i'm a 15-year-old student from butwal, nepal. i got into coding a while back and never really stopped. web dev, game dev—i just like building things that work.
+I'm Khuman Adhikari, a 15-year-old student from Butwal, Nepal. I started learning to code because I was curious about how websites and games are made. That curiosity turned into a hobby, and now I spend a lot of my free time building projects, learning new technologies, and figuring out why my code doesn't work (until it finally does).
 
-quick facts
+I'm currently studying in the Secondary Level Technical Education program, where I get to learn practical computer skills along with my regular school subjects.
 
-what	details
-name	khuman adhikari
-born	june 19, 2011
-age	15
-location	butwal, nepal
-gender	male
-current school	kalika manavgyan secondary school (grade 7-10)
-where i've studied
+## 📌 About Me
 
-jeevan jyoti school – kindergarten to grade 5
+- **Name:** Khuman Adhikari
+- **Age:** 15
+- **Date of Birth:** June 19, 2011
+- **Location:** Butwal, Nepal 🇳🇵
+- **School:** Kalika Manavgyan Secondary School
 
-everest english boarding school – grade 6
+## 🎓 Education
 
-kalika manavgyan secondary school – grade 7 to now
+- Jeevan Jyoti School — Kindergarten to Grade 5
+- Everest English Boarding School — Grade 6
+- Kalika Manavgyan Secondary School — Grade 7 to Present
 
-what i do
+## 💻 What I'm Learning
 
-web development – html, css, javascript, that kind of thing
+### 🌐 Web Development
+I enjoy building websites with HTML, CSS, and JavaScript. I like making clean layouts, experimenting with new designs, and learning how to create better user experiences.
 
-game development – making games is way more fun than just playing them
+### 🎮 Game Development
+Making games has become another hobby of mine. There's something satisfying about taking an idea and turning it into something people can actually play.
 
-i'm in secondary level technical education right now, so i get to study stuff that actually feels useful.
+## 🚀 My Goal
 
-why i'm here
+Right now, I'm focused on improving my programming skills by building projects instead of only watching tutorials. Every project teaches me something new, whether it's a better way to write code or how to solve a problem I haven't seen before.
 
-i'm still learning. stuff breaks all the time and i spend hours fixing it, but that's honestly the best part. i'm not pretending to be an expert—just a kid from butwal who likes coding and wants to keep getting better.
+I'm especially interested in web development, UI design, and game development, and I plan to keep exploring all three.
 
-wanna talk?
+## 📂 Projects
 
-i'm around. hit me up if you're working on something cool or just feel like chatting about tech or games or whatever.
+Most of my repositories are learning projects. They may not be perfect, but each one represents something new that I learned while building it.
 
+## 🤝 Let's Connect
+
+If you have feedback, ideas, or just want to talk about programming, web development, or games, feel free to reach out.
+
+Thanks for stopping by!
