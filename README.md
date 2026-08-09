@@ -54,4 +54,4 @@ They're definitely not all perfect, but I keep them because they show what I've 
 
 If you're also into coding, web development, games, or just want to talk about random tech stuff, feel free to reach out.
 
-# Thanks for checking out my profile! 👋
+# Thanks for checking out my profile! 
