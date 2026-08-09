@@ -1,43 +1,57 @@
-# 👋 Hey, I'm Khuman
+# Hey, I'm Khuman
 
-I'm Khuman Adhikari, a 15-year-old student from Butwal, Nepal. I started learning to code because I was curious about how websites and games are made. That curiosity turned into a hobby, and now I spend a lot of my free time building projects, learning new technologies, and figuring out why my code doesn't work (until it finally does).
+Hey! I'm Khuman Adhikari, a 15-year-old student from Butwal, Nepal 🇳🇵.
 
-I'm currently studying in the Secondary Level Technical Education program, where I get to learn practical computer skills along with my regular school subjects.
+I got into coding because I was curious about how websites and games actually work. I started with small things, messed up a lot, fixed them, and somehow ended up really enjoying it.
 
-## 📌 About Me
+Most of the time when I'm free, you'll probably find me coding, trying out something new, or staring at an error wondering what I did wrong this time.
 
-- **Name:** Khuman Adhikari
-- **Age:** 15
-- **Date of Birth:** June 19, 2011
-- **Location:** Butwal, Nepal 🇳🇵
-- **School:** Kalika Manavgyan Secondary School
+# A little about me
+Name: Khuman Adhikari
+Age: 15
+Born: June 19, 2011
+Location: Butwal, Nepal
+School: Kalika Manavgyan Secondary School
+#Education
+Jeevan Jyoti School — Kindergarten to Grade 5
+Everest English Boarding School — Grade 6
+Kalika Manavgyan Secondary School — Grade 7 to present
 
-## 🎓 Education
+I'm currently studying in the Secondary Level Technical Education program, so along with my regular subjects, I also get to learn practical computer-related stuff.
 
-- Jeevan Jyoti School — Kindergarten to Grade 5
-- Everest English Boarding School — Grade 6
-- Kalika Manavgyan Secondary School — Grade 7 to Present
+# What I'm learning
+# Web Development
 
-## 💻 What I'm Learning
+#Web development is probably what I'm most interested in right now.
 
-### 🌐 Web Development
-I enjoy building websites with HTML, CSS, and JavaScript. I like making clean layouts, experimenting with new designs, and learning how to create better user experiences.
+I've been learning HTML, CSS, and JavaScript, and I enjoy making websites and messing around with different layouts and designs. I'm still learning a lot, especially when it comes to making things actually look good and work properly on different screens.
 
-### 🎮 Game Development
-Making games has become another hobby of mine. There's something satisfying about taking an idea and turning it into something people can actually play.
+# Game Development
 
-## 🚀 My Goal
+I've also been getting into game development.
 
-Right now, I'm focused on improving my programming skills by building projects instead of only watching tutorials. Every project teaches me something new, whether it's a better way to write code or how to solve a problem I haven't seen before.
+I like the idea of starting with nothing more than an idea and eventually having something that you can actually play. I'm still experimenting with it, but it's definitely something I want to get better at.
 
-I'm especially interested in web development, UI design, and game development, and I plan to keep exploring all three.
+# What I'm trying to do
 
-## 📂 Projects
+My main goal right now is pretty simple: get better at coding by actually building things.
 
-Most of my repositories are learning projects. They may not be perfect, but each one represents something new that I learned while building it.
+I don't want to spend all my time watching tutorials and feeling like I know something without actually using it. So I try to make projects, even when they're small or a little messy.
 
-## 🤝 Let's Connect
+Sometimes they work. Sometimes they don't work at all. And sometimes I spend way too long fixing one tiny bug.
 
-If you have feedback, ideas, or just want to talk about programming, web development, or games, feel free to reach out.
+But that's also how I'm learning.
 
-Thanks for stopping by!
+I'm mainly interested in web development, UI design, and game development, and I'm still figuring out which direction I want to take further.
+
+# My Projects
+
+Most of the projects on my GitHub are things I've made while learning.
+
+They're definitely not all perfect, but I keep them because they show what I've been working on and what I was learning at the time.
+
+# Let's Connect
+
+If you're also into coding, web development, games, or just want to talk about random tech stuff, feel free to reach out.
+
+# Thanks for checking out my profile! 👋
