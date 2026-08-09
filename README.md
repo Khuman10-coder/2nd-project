@@ -1,10 +1,10 @@
 # Hey, I'm Khuman
 
-Hey! I'm Khuman Adhikari, a 15-year-old student from Butwal, Nepal 🇳🇵.
+hey! I'm Khuman Adhikari (a 15-year-old student from Butwal, Nepal 🇳🇵).
 
-I got into coding because I was curious about how websites and games actually work. I started with small things, messed up a lot, fixed them, and somehow ended up really enjoying it.
+i got into coding because I was curious about how websites and games actually work. i started with small things, messed up a lot, fixed them, and somehow ended up really enjoying it.
 
-Most of the time when I'm free, you'll probably find me coding, trying out something new, or staring at an error wondering what I did wrong this time.
+most of the time when I'm free, you'll probably find me coding, trying out something new, or staring at an error wondering what i did wrong this time.
 
 # A little about me
 Name: Khuman Adhikari
@@ -52,6 +52,6 @@ They're definitely not all perfect, but I keep them because they show what I've 
 
 # Let's Connect
 
-If you're also into coding, web development, games, or just want to talk about random tech stuff, feel free to reach out.
+if you're also into coding, web development, games, or just want to talk about random tech stuff, feel free to reach out.
 
-# Thanks for checking out my profile! 
+# Thanks for checking out. 
