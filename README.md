@@ -53,8 +53,8 @@ Most of the projects on my GitHub are things I've made while learning.
 
 They are definitely not perfect, but I keep them because they are one of my first projects and they are good for memories.
 
-# Let's Connect
+# wanna know me?
 
 if you're also into coding, web development, games, or just want to talk feel free to reach out.
 
-# Thanks for checking out. 
+# Thanks
