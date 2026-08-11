@@ -1,12 +1,13 @@
-# Hey, I'm Khuman
+# hey i am  Khuman adk-a 15-year-old student from Butwal, Nepal
 
-hey! I'm Khuman Adhikari (a 15-year-old student from Butwal, Nepal 🇳🇵).
+i got into coding because i really liked technical feild and wanted to be part of it . after joining technical education i started to lean coding and really enjoyed it.
 
-i got into coding because I was curious about how websites and games actually work. i started with small things, messed up a lot, fixed them, and somehow ended up really enjoying it.
-
-most of the time when I'm free, you'll probably find me coding, trying out something new, or staring at an error wondering what i did wrong this time.
+most of the time when I am free, you'll probably find me coding, trying out something new, or staring at an error wondering what i did wrong this time.
 
 # A little about me
+<img width="1166" height="588" alt="Screenshot" src="https://github.com/user-attachments/assets/05b095e7-dd14-45b2-b326-b3ba41c7e307" />
+
+
 Name: Khuman Adhikari
 Age: 15
 Born: June 19, 2011
@@ -45,13 +46,15 @@ But that's also how I'm learning.
 I'm mainly interested in web development, UI design, and game development, and I'm still figuring out which direction I want to take further.
 
 # My Projects
+<img width="1306" height="584" alt="Screenshot" src="https://github.com/user-attachments/assets/9e1536c3-cb5c-41dd-b65d-24743c08e58f" />
+
 
 Most of the projects on my GitHub are things I've made while learning.
 
-They're definitely not all perfect, but I keep them because they show what I've been working on and what I was learning at the time.
+They are definitely not perfect, but I keep them because they are one of my first projects and they are good for memories.
 
 # Let's Connect
 
-if you're also into coding, web development, games, or just want to talk about random tech stuff, feel free to reach out.
+if you're also into coding, web development, games, or just want to talk feel free to reach out.
 
 # Thanks for checking out. 
