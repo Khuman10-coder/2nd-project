@@ -19,6 +19,12 @@ Everest English Boarding School — Grade 6
 Kalika Manavgyan Secondary School — Grade 7 to present
 
 I'm currently studying in the Secondary Level Technical Education program, so along with my regular subjects, I also get to learn practical computer-related stuff.
+# how to run this?
+
+My portfolio website is available in the internet so, u can just search url- "https://khuman10.netlify.app/" in any web browser to visit my website. If u want to see the source code it is also freely availabe in my github(Khuman10-coder) in the repositary -"2nd-project".
+
+
+
 
 # What I'm learning
 # Web Development
